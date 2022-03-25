@@ -1,0 +1,13 @@
+## (PixelLib) C:\Users\fa>pip freeze > requirements_1.txt
+
+###### Requirements with Version Specifiers ######
+tensorflow==2.4.1
+tensorflow--gpu==2.4.1
+imgaug==0.2.6
+pixellib==0.5.2
+labelme2coco==0.1.2
+
+# retsart runtime
+#numpy~=1.19.2
+folium==0.2.1
+imgaug==0.2.6
